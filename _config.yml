@@ -1,2 +1,4 @@
-_config.yml
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
+title: Kennedy's Portfolio 
+description: A final portfolio for programming 1 
+logo: 
