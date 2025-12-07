@@ -18,7 +18,7 @@ This is a flow chart about the choices one makes on the way from Union station
 
 ## Duck Game
 This is a iomage of the duck game I created! It turned out so cute. 
-[Underwater Creatures](https://gist.github.com/janell-baxter/4e593fe89ebede781baf7d5dce308829) demonstrates inheritance, polymorphism, and encapsulation. 
+<img width="661" height="312" alt="Screenshot 2025-12-07 141755" src="https://github.com/user-attachments/assets/8565dd18-6672-4332-a618-3adc4b7b5c4b" />
 
 ## Website WIP 
 THis my future website for my art portfolio I hope to make over the course of next semester. It is not yet completed But I am excited for where and how it evolves. 
