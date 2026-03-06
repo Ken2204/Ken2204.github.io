@@ -1,4 +1,4 @@
-# Ken2204.github.io
+# Skeletoninbeanie.github.io
 Portfolio 
 ## Project 1 
 <img width="1307" height="461" alt="Screenshot 2025-12-07 131252" src="https://github.com/user-attachments/assets/74fff3cb-6dc2-4152-8402-7b4b7f8538b3" />
